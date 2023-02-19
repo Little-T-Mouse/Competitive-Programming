@@ -2,7 +2,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 const int MN = 2e3+3;
-int N, M, R, C; char ans[MN][MN]; bool good[MN][MN];
+int N, M, R, C; char ans[MN][MN];
 
 int main() {
     cin.sync_with_stdio(0); cin.tie(0); cout.tie(0);
